@@ -1,7 +1,7 @@
-- � Hi, I’m Marinos Labrakis junior java developer
--  I’m interested in Software development
--  I’m currently learning java/kotlin mobile development
--  I’m looking to collaborate on ...
+- � Hi, I’m Marinos Labrakis software developer
+-  I’m interested in Software development and engineering.
+-  I’m currently working at sap abap .
+-  I’m looking to collaborate on java / C and javascript projects
 -  How to reach me : marinoslam23@gmail.com , Linkedin/Marinos Labrakis
 
 <!---
