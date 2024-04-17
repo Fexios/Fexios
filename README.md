@@ -1,7 +1,7 @@
 - � Hi, I’m Marinos Labrakis software developer
 -  I’m interested in Software development and engineering.
 -  I’m currently working at sap abap .
--  I’m looking to collaborate on java / C and javascript projects
+-  I’m looking to collaborate on java and GO projects
 -  How to reach me : marinoslam23@gmail.com , Linkedin/Marinos Labrakis
 
 <!---
